@@ -431,7 +431,7 @@ with col_heat:
 with col_line:
     st.markdown('<div class="section-title">📈 Line Chart Harga: Sumsel vs Pulau Sumatera</div>', unsafe_allow_html=True)
 
-    FILE = os.path.join(os.path.dirname(__file__), 'final_dataset_sriwijaya__1_.xlsx')
+    FILE = os.path.join(os.path.dirname(__file__), 'final_dataset sriwijaya (1).xlsx')
     SHEET_MAP = {
         'Cabai Rawit':'Cabe Rawit','Cabai Merah':'Cabe Merah',
         'Bawang Merah':'Bawang Merah','Bawang Putih':'Bawang Putih',
