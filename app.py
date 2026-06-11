@@ -153,7 +153,7 @@ with st.sidebar:
     st.markdown("---")
     st.markdown("**Tampilkan**")
     show_labels = st.checkbox("Label provinsi di peta", True)
-    show_anomali = st.checkbox("Tampilkan anomali (Sumbar-Ayam)", False)
+    show_anomali = st.checkbox("Tampilkan anomali", False)
     st.markdown("---")
     st.markdown("""
     <div style='font-size:10px; opacity:0.5; line-height:1.6;'>
